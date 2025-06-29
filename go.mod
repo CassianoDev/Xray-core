@@ -1,4 +1,4 @@
-module github.com/CassianoDev/Xray-core
+module github.com/CassianoDev/Xray-core5
 
 go 1.24
 
